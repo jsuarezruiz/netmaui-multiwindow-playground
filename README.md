@@ -2,4 +2,4 @@
 
 .NET MAUI MultiWindow sample.
 
-![Beautyshop App](images/netmaui-multiwindow.gif)
+![Multi-Window Playground](images/netmaui-multiwindow.gif)
