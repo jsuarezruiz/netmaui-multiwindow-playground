@@ -1,0 +1,18 @@
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MultiWindowPlayground.MainPage"
+    Title="MultiWindow Playground">
+    <ScrollView>
+        <StackLayout>
+            <Button 
+                Text="Open window"
+                SemanticProperties.Hint="Open window"
+                Clicked="OnOpenWindowClicked" />
+            <Button 
+                Text="Close window"
+                SemanticProperties.Hint="Close window"
+                Clicked="OnCloseWindowClicked" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
