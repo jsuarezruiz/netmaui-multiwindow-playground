@@ -1,4 +1,4 @@
-# NET MAUI Multi-Window Playground
+# .NET MAUI Multi-Window Playground
 
 .NET MAUI MultiWindow sample.
 
